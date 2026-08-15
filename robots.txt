@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-qlsm42.introduse.me/sitemap.xml
